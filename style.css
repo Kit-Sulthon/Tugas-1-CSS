@@ -1,0 +1,25 @@
+/*----Koment------ Apa itu CSS
+CSS adalah bahasa Cascading Style
+Sheet dan biasanya digunakan untuk mengatur
+tampilan elemen yang tertulis dalam
+bahasa markup, seperti HTML.
+CSS berfungsi untuk memisahkan konten
+dari tampilan visualnya di situs. */
+
+.judul {
+  color: green;
+  padding-left: 40px;
+
+}
+.deskripsi {
+  font-family: 18px;
+  color: blue;
+}
+.img-description {
+  width: 30px;
+  height: 30px;
+  float: left;
+}
+.subjudul {
+  color: red;
+}
